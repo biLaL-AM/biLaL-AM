@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bilal </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilal-am&label=Profile%20views&color=0e75b6&style=flat" alt="bilal-am" /> </p>
 
-- 🔭 I’m currently working on **SmartHome Mobile Application**
+- 🔭 I’m currently working on **Nailuxury Slaon Mobile Application**
 
 - 🌱 I’m currently learning **Flutter**
 
